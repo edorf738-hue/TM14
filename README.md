@@ -5,16 +5,16 @@ Aplikasi Android sederhana menggunakan Kotlin dan Retrofit.
 ## Screenshot
 
 ### Home
-![Home](1.png)
+![Home](screenshots/1.png)
 
 ### Data Barang
-![Data Barang](2.png)
+![Data Barang](screenshots/2.png)
 
 ### Detail
-![Detail](3.png)
+![Detail](screenshots/3.png)
 
 ### Form
-![Form](4.png)
+![Form](screenshots/4.png)
 
 ### Hasil
-![Hasil](5.png)
+![Hasil](screenshots/5.png)
